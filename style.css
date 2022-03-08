@@ -7,6 +7,7 @@ body {
   font-size: 100%;
   line-height: 1.2;
   background-color: #0e1319;
+  background: -moz-linear-gradient(pink, black);
 }
 a {
   text-decoration: none;
