@@ -116,6 +116,28 @@ MAIN NAVIGATION STYLE
   color: white;
 }
 
+/* ------------------------
+      MITIGATION 
+-------------------------*/
+/* Layout modification */
+
+body {
+}
+#wrapper { max-width: 1200px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: #1C1B1A;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-bottom: 200px
+  
+}
+
+
+
+
+
+
 
 /* ------------------------
       QUIZ STYLE 
