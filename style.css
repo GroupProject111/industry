@@ -136,7 +136,25 @@ MAIN NAVIGATION STYLE
   margin: 1.25em 1.25em 0.3em 0;
   padding: 1em;
 }
+.card-content {
+  flex-direction: column;
+  width: 100%;
+  border: 1px solid #FFF;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  margin: 1.25em 1.25em 0.3em 0;
+  padding: 1em;
+}
 
+/*640 px - tablet portrait orientation - 2 columns*/
+@media screen and (min-width: 40em){
+  .card { width: 50%; }
+}
+/*960 px* - tablet landscape orientation and above - 3 columns*/
+@media screen and (min-width: 60em) {
+  .card { width: 70.9%; 
+      margin-left: 20px;
+  }
 
 
 
