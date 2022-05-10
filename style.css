@@ -592,7 +592,7 @@ FLIP CARD
   color: black;
 }
 .flip-card-back {
-  background-color: dodgerblue;
+  background-color: rgb(64, 113, 187);
   color: white;
   transform: rotateY(180deg);
 }
