@@ -568,6 +568,10 @@ FLIP CARD
   height: 220px;
   border: 1px solid #f1f1f1;
   perspective: 1000px; /* Remove this if you don't want the 3D effect */
+  column-count: 2;
+  column-gap: 40px;
+  column-rule-style: solid;
+  column-rule-width: 1px;
 }
 .flip-card-inner {
   position: relative;
