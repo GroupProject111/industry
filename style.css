@@ -120,10 +120,6 @@ MAIN NAVIGATION STYLE
       MITIGATION 
 -------------------------*/
 /* Layout modification */
-li {
-    display:inline;
-    padding: 10px 40px;
-}
 .cards {
   display: flex;
   flex-wrap: wrap;
