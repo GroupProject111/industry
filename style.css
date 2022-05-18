@@ -558,6 +558,10 @@ footer button.show {
   background: #007bff;
 }
   
+.banner {
+  padding: 10px 20px;
+}
+  
 /*----------------------------
 FLIP CARD
 ----------------------------*/
