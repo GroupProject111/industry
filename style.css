@@ -121,7 +121,6 @@ MAIN NAVIGATION STYLE
 -------------------------*/
 /* Layout modification */
 li {
-    display:inline;
     padding: 10px;
 }
 .cards {
