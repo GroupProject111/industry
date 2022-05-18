@@ -43,8 +43,27 @@
         </div>
         
     </div>
-    <div class="contact-form">
-        
+    <div class="newsletter">
+        <form id="form1" action="action_page.php">
+            <div class="newsletter-container">
+                <h2>Subscribe to our Newsletter</h2>
+                <p>Do you want to receive updates on cyber security in the business field? Sign up to our newsletter!</p>
+            </div>
+          
+            <div class="newsletter-container" style="background-color:#383434">
+                <input type="text" placeholder="Name" name="name" required>
+                <input type="text" placeholder="Email address" name="mail" required>
+            
+                <label>
+                    <input type="checkbox" checked="checked" name="subscribe"> Receive emails with promotional material and exclusive tips?
+                </label>
+            
+            </div>
+          
+            <div class="newsletter-button">
+                <input type="submit" value="Submit">
+            </div>
+        </form>
     </div>
 </body>
 <script src="contact.js"></script>
