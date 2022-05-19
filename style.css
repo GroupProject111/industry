@@ -601,6 +601,8 @@ FLIP CARD
   height: 220px;
   border: 1px solid #f1f1f1;
   perspective: 1000px; /* This creates the 3D effect */
+  margin: 50px;
+  display: inline-block;
 }
 .flip-card-inner {
   position: relative;
